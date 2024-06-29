@@ -1,5 +1,5 @@
-## Passwords 
-Passwords is PWA (Progressive Web App) for people who forget their passwords. Passwords which are stored in notepad or any other local software will be lost if they are not backed-up or synced to the cloud. 
+## NoPass 
+NoPass is PWA (Progressive Web App) for people who forget their passwords. Passwords which are stored in notepad or any other local software will be lost if they are not backed-up or synced to the cloud. 
 Storing passwords in Passwords directly stores data in your **mongoDB cloud**. You can access this data from any device and anywhere.
 
 ```
@@ -18,7 +18,4 @@ by password created by you. No 3rd party included.
 <img align="left" width="30px" src="https://avatars.githubusercontent.com/u/41653701?s=400&v=4"/>
 <br>
 
-## Team Members
-Rupesh Raut (SAP ID - 60003220103)
-Vihit Khetle (SAP ID - 60003220240)
-Aditya Thatte (SAP ID- 60003210157)
+
